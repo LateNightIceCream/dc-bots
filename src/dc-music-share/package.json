@@ -1,0 +1,22 @@
+{
+  "name": "discord-music-share",
+  "version": "1.0.0",
+  "description": "just a reaction bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LateNightIceCream/discord-music-share.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LateNightIceCream/discord-music-share/issues"
+  },
+  "homepage": "https://github.com/LateNightIceCream/discord-music-share#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
